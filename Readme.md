@@ -1,1 +1,1 @@
-### These are my practice projects for machine learning
+### These are my projects for machine learning
